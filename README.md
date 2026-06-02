@@ -166,4 +166,4 @@ echo '{"accion":"ping"}' | nc 127.0.0.1 9000
 
 ## Autores
 
-Equipo Dragones Mágicos — Materia: Redes de Computadoras
+Adrián Agustín Leroy Delgado  — Materia: Programación sobre redes
