@@ -164,6 +164,6 @@ echo '{"accion":"ping"}' | nc 127.0.0.1 9000
 
 ---
 
-## Autores
+## Autor
 
 Adrián Agustín Leroy Delgado  — Materia: Programación sobre redes
